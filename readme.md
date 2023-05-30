@@ -1,5 +1,5 @@
 # MPCNC Hotswap Z axis
-![MPCNC DB9](https://austinoneil.com/aoneil/mpcnc-hotswap-z-axis-db9/-/raw/main/images/InUseExample.jpg "MPCNC DB9")
+![MPCNC DB9](./images/InUseExample.jpg "MPCNC DB9")
 
 ## Description
 **WARNING: KILL POWER TO MPCNC WHEN CONNECTING OR DISCONNECTING ANY WIRES FROM THE MACHINE**
@@ -10,7 +10,7 @@ After a few trial and error attempts, I ended up designing a new motor mount for
 
 Most of the weight of the cable is being held up via retractable badge ID holders which doesn’t add unnecessary strain to the Z-axis core.
 
-[This modification pairs very well with my MPCNC Tornado dust collection/air assist setup!](https://austinoneil.com/aoneil/mpcnc-tornado)
+[This modification pairs very well with my MPCNC Tornado dust collection/air assist setup!](https://austinoneil.com/mpcnc-tornado/)
 
 ## Files
 * motor_mount_db9.stl - Motor mount with DB9 connector  
